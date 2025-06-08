@@ -1,0 +1,50 @@
+<svg fill="none" viewBox="0 0 846 150" width="846" height="150" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 150px;
+					background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+					border-radius: 12px;
+					color: #e0e0e0;
+					line-height: 1.8;
+					box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+					padding: 10px;
+					text-align: center;
+				}
+				.quotes-eng {
+					font-size: 18px;
+					font-weight: 600;
+					text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+					margin-bottom: 5px;
+					color: #00d4ff;
+				}
+				.quotes-vi {
+					font-size: 17px;
+					font-style: italic;
+					color: #d0d0ff;
+					margin-bottom: 8px;
+				}
+				.trungquandev-signature {
+					font-size: 15px;
+					font-weight: 400;
+					color: #a0a0a0;
+					letter-spacing: 0.5px;
+				}
+			</style>
+
+			<div class="container">
+				<div class="quotes-eng">"Embrace each challenge as a step toward growth!"</div>
+				<div class="quotes-vi">"Hãy đón nhận mỗi thử thách như một bước tiến đến sự phát triển!"</div>
+				<div class="trungquandev-signature">- Đỗ Minh Quang Một lập trình viên -</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
