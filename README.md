@@ -68,7 +68,7 @@
   <a href="https://facebook.com/wangdo823" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Quang823-facebook" />
   </a>
-  <a href="https://youtube.com/@Quang823" target="blank">
+  <a href="https://www.youtube.com/@ramboquang1203" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Quang823-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/minh-quang-b6965a281" target="blank">
